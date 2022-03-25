@@ -1,4 +1,4 @@
-# SpringBoard
+# SpringProject
 📌 제작했던 게시판 프로젝트를 정리합니다
 
 ### [MVC 패턴 게시판 제작](https://github.com/Jupiter-J/DoorLock.git) 
