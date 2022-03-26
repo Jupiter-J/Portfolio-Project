@@ -1,5 +1,10 @@
 # SpringProject
-📌 제작했던 게시판 프로젝트를 최신순으로 정리합니다
+📌 제작했던 스프링부트 프로젝트를 최신순으로 정리합니다
+<br/><br/>
+
+### [Spring Security를 로그인페이지 ](https://github.com/Jupiter-J/SpringSecurity.git)
+* 2022-03-20 ~ 2022-03-26
+* 회원가입, 로그인, 로그아웃 페이지 구현
 
 
 
