@@ -4,7 +4,7 @@
 
 ### [가게리뷰 사이트 (공부중)](https://github.com/Jupiter-J/ShopBoard.git)
 * 2022-03-29 ~
-
+* 가게 리뷰 사이트에 대한 api 
 
 ### [Spring Security 로그인페이지 ](https://github.com/Jupiter-J/SpringSecurity.git)
 * 2022-03-20 ~ 2022-03-26
