@@ -2,8 +2,9 @@
 📌 제작했던 스프링부트 프로젝트를 최신순으로 정리합니다
 <br/><br/>
 
-### [인스타그램](https://github.com/Jupiter-J/Nstagram.git)
-* 2022-04-01 
+### [N스타그램](https://github.com/Jupiter-J/Nstagram.git)
+* 2022-04-07 ~
+* 인스타그램 클론코딩
 
 ### [가게리뷰 사이트](https://github.com/Jupiter-J/ShopBoard.git)
 * 2022-03-29 ~
