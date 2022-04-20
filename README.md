@@ -3,7 +3,7 @@
 <br/><br/>
 
 ### [N스타그램](https://github.com/Jupiter-J/Nstagram.git)
-* 2022-04-07 ~ 2022-04-10
+* 2022-04-07 ~ 2022-04-15
 * 인스타그램 클론코딩
 
 ### [가게리뷰 사이트](https://github.com/Jupiter-J/ShopBoard.git)
