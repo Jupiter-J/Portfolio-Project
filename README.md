@@ -5,6 +5,8 @@
 ### [I'm MoMo Project](https://github.com/Jupiter-J/iammomoproject.git)
 * 2022-04-16 ~ 2022-04-28
 * 기획팀, 프론트, 백엔드로 포지션을 나눠 협업프로젝트를 진행
+* 2022-05-02 ~ 
+* [프로젝트 코드 개선](https://github.com/Jupiter-J/RE_MoMoProject.git) 
 
 
 
