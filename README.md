@@ -2,6 +2,10 @@
 📌 제작했던 스프링부트 프로젝트를 최신순으로 정리합니다
 <br/><br/>
 
+### [JWT Study Project](https://github.com/Jupiter-J/jwtSecurity.git)
+* 2022-05-03 ~ 2022-05-05
+* 모모프로젝트에서 부족했던 JWT토큰을 프로젝트에 적용시키기위해 학습
+
 ### [I'm MoMo Project](https://github.com/Jupiter-J/iammomoproject.git)
 * 2022-04-16 ~ 2022-04-28
 * 기획팀, 프론트, 백엔드로 포지션을 나눠 협업프로젝트를 진행
