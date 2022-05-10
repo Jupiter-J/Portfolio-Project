@@ -40,8 +40,8 @@
 * Mysq, RDS, AWS, JWT
 
 
-### [MVC 패턴 게시판 제작](https://github.com/Jupiter-J/DoorLock.git) 
+### [교내창업동아리 : DoorLock](https://github.com/Jupiter-J/DoorLock.git) 
 * 2021-10-15 ~ 2021-12-29
 * 창업동아리 활동으로 게시판 제작을 하였다 
-* 스프링부트로 처음 제작 해본 MVC 게시판
+* 스프링부트 MVC 게시판
 <br/><br/>
