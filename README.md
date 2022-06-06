@@ -1,10 +1,10 @@
 # SpringProject
 📌 활동과 제작한 프로젝트를 정리합니다
 
-<br/><br/>
+<br/>
 
 
-## 직무관련 교육이수
+## 🗂️ 직무관련 교육이수
 ### [코멘토 : 직무부트캠프 서울시 공공API](https://github.com/Jupiter-J/SeoulOpenAPI.git)
 * 2022-02
 * SrpingBoot, Retrofit, ehcache
@@ -14,7 +14,7 @@
 
 <br>
 
-## 협업 프로젝트
+## 🗂️ 협업 프로젝트
 ### [I'm MoMo Project](https://github.com/Jupiter-J/iammomoproject.git)
 * 2022-04-16 ~ 2022-04-28
 * 기획팀, 프론트, 백엔드로 포지션을 나눠 협업프로젝트를 진행
@@ -28,7 +28,7 @@
 
 <br>
 
-## 개인 프로젝트
+## 🗂️ 개인 프로젝트
 ### [JWT Study Project](https://github.com/Jupiter-J/jwtSecurity.git)
 * 2022-05-03 ~ 2022-05-05
 * JWT토큰을 프로젝트에 적용시키기위해 학습
@@ -36,7 +36,8 @@
 ### [N스타그램](https://github.com/Jupiter-J/Nstagram.git)
 * 2022-04-07 ~ 2022-04-15
 * 인스타그램 클론코딩
-* 
+
+
 ### [AirBnb 에어비앤비 API 제작](https://github.com/Jupiter-J/airbnb.git)
 * 2021-11-08 ~ 2021-12-20
 * 에어비애비의 API를 제작해보았다
