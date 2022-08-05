@@ -8,7 +8,7 @@
 ### [코멘토 : 직무부트캠프 서울시 공공API](https://github.com/Jupiter-J/SeoulOpenAPI.git)
 * 2022-02
 * SrpingBoot, Retrofit, ehcache
-### [멋쟁이사자 : ProjectLion BootCamp](https://github.com/Jupiter-J/SpringBoot_PL.git)
+### [멋쟁이사자 : ProjectLion SpringBoot](https://github.com/Jupiter-J/SpringBoot_PL.git)
 * 2022-01 ~ 2022-04
 * SpringBoot, JPA, MySQL 학습
 
